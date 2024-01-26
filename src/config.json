@@ -1,0 +1,25 @@
+{
+    "db": {
+        "host": "",
+        "dbname": "",
+        "user": "",
+        "password": ""
+    },
+    "colors":
+    {
+        "RED": "\\x1b[31m",
+        "GREEN": "\\x1b[32m",
+        "YELLOW": "\\x1b[33m",
+        "RESET": "\\x1b[0m"
+    },
+    "error":
+    {
+        "uncaughtException": "[ERROR HANDLER]",
+        "unhandledRejection": "[UNHANDLED PROMISE REJECTION]"
+    },
+    "api":
+    {
+        "hostname": "localhost",
+        "port": "8081"
+    }
+}
