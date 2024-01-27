@@ -1,6 +1,6 @@
 # Lightweight ExpressJS Template 🚀
 
-A simple yet powerful template for building fast and scalable web applications using Express.js. This template is designed to provide a solid foundation for your web app projects, including dynamic routing, essential middleware, authentication features, and error handling. Optimized for both performance and maintainability.
+A simple yet powerful template for building fast and scalable web applications using Express.js. This template is designed to provide a solid foundation for your web app projects, including dynamic routing, and error handling. Optimized for both performance and maintainability.
 
 ## Features 🌟
 
